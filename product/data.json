@@ -1,0 +1,20 @@
+[
+    {
+      "product_name": "Laptop",
+      "product_description": "MSI GF63 Thin 11UCX-1626PH Gaming Laptop (i5-11400H / RTX2050 / 8GB / 512GB SSD / 15.6FHD IPS 144Hz).",
+      "product_price": 45000,
+      "product_date_added": "2022-01-01"
+    },
+    {
+      "product_name": "Headphone",
+      "product_description": "JBL Quantum 100 wired over-ear gaming headset.",
+      "product_price": 5000,
+      "product_date_added": "2022-01-02"
+    },
+    {
+      "product_name": "Iphone 15 Pro",
+      "product_description": "iPhone 15 Pro is the first iPhone to feature an aerospace grade titanium design, using the same alloy that spacecraft use for missions to Mars.",
+      "product_price": 50000,
+      "product_date_added": "2022-01-03"
+    }
+  ]
